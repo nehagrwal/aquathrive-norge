@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/aquathrive-norge/sitemap.xml
+Sitemap: https://aquathrive-norge.vercel.app/sitemap-vercel.xml
+Sitemap: https://aquathrive-norge.pages.dev/sitemap-cloudflare.xml
